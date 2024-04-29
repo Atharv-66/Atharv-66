@@ -9,7 +9,7 @@
 - 👀 I’m interested in ...Competitative Programming and Web Development and still exploring different things.<br>
 - 🌱 I’m currently learning ...JS and React Js , Node.js , Express.js , Mongodb, NestJs and Web3.<br>
 - 💞 I’m looking to collaborate on ...Web Dev Projects.<br>
-- 📫 How to reach me ...contact manjeetpathak2003@gmail.com<br>
+- 📫 How to reach me ...contact atharvpandey112@gmail.com<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Atharv-66&label=Profile%20views&color=0e75b6&style=flat" alt="Atharv-66" /> </p>
 <p align="center">
 <a href="#">
